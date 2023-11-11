@@ -8,3 +8,5 @@ pull --rebase を練習する
 pull request をやってみるよ
 
 test2回目
+
+やり直し
